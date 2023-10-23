@@ -1,6 +1,6 @@
 package string;
 
-import com.sun.scenario.animation.shared.ClipEnvelope;
+
 
 public class string_demo {
     public static void main(String[] args) {

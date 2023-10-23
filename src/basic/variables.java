@@ -1,6 +1,6 @@
 package basic;
 
-import com.sun.xml.internal.bind.v2.runtime.output.StAXExStreamWriterOutput;
+
 
 public class variables {
     public static void main(String[] args) {
